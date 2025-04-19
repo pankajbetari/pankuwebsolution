@@ -49,7 +49,7 @@ const Header = () => {
 
             <div className={headstyle.head_query}>
                 <Link href="Contact_query">
-                    <div> Contact query</div>
+                    <div> Query</div>
                 </Link>
             </div>
 
