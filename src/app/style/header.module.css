@@ -79,7 +79,10 @@
     justify-content: center;
     padding: 9px;
     cursor: pointer;
-
+color: #000;
+}
+.head_query li div {
+  color: #000;
 }
 
 .head_query:hover {
