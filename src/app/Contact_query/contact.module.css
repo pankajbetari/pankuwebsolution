@@ -49,6 +49,9 @@
     align-items: flex-start;
     justify-content: center;
 }
+.form_field_area label {
+  color: #000;
+}
 .form_field_area label span{
   color: red;
 }

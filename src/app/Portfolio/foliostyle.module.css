@@ -6,6 +6,7 @@
     margin-top: 23px;
     width: 100%;
     height: 100px;
+    background-color: #FFF;
 }
 .container_heading h2{
   font-size: 30px;
@@ -27,6 +28,7 @@
     display: flex;
     align-items: center;
     justify-content: center;
+    background-color: #FFF;
 }
 .container_box{
   width: 350px;
