@@ -16,7 +16,7 @@ const Header = () => {
         <div className={headstyle.head_container}>
 
             <div className={headstyle.head_container_mobilemenu}>
-                <span onClick={toggleMenu}><RiMenu2Line style={{ height: "30px", width: "30px" }} /></span>
+                <span onClick={toggleMenu}><RiMenu2Line style={{ height: "30px", width: "30px" , color:"black"}} /></span>
                 {/* className={`${headerstyle.mobile_menu} ${isOpen ? headerstyle.mobile_menu_open: ''}`} */}
 
                 <div className={`${headstyle.head_container_mobilemenu_container} ${isOpen? headstyle.mobile_menu_open : ""}`}>
