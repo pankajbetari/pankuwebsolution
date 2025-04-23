@@ -80,6 +80,11 @@
 .container_right_contain_box h2 {
     font-size: 40px;
     font-weight: bold;
+    color: #000;
+}
+.container_right_contain_box p{
+  
+    color: #000;
 }
 
 

@@ -38,7 +38,7 @@
 font-family: sans-serif;
    font-size: 1rem;
    font-size: 16px;
-
+color: #000;
 }
 .container_footer_detail_box1 ul{
   display: flex;
@@ -89,7 +89,7 @@ color: blue;
 
   font-size: 16px;
   font-weight: 500;
-
+color: #000;
 }
 .container_footer_detail_box2 ul li a:hover{
 
@@ -127,7 +127,7 @@ display: flex;
 }
 .container_footer_detail_box3 ul li p{
 margin-left: 6px;
-
+color: #000;
 }
 
 .container_footer_detail_box4 {

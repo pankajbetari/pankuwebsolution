@@ -29,7 +29,7 @@
 .head_logo small {
     font-weight: bold;
     font-size: 14px;
-
+color: #000;
 }
 
 .head_menu {
@@ -83,6 +83,7 @@ color: #000;
 }
 .head_query li div {
   color: #000;
+  font-weight: 500;
 }
 
 .head_query:hover {
